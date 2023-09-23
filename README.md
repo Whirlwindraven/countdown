@@ -4,8 +4,7 @@
 This is a full stack application demonstrating a countdown of a date you choose. 
 
 ## Screenshot 
-The following is a screenshot of the app
-[screenshot](./countdown.png);
+The following is a screenshot of the app [(./countdown.png)]
 
 ## Contact
 fadysherif1998@gmail.com 
