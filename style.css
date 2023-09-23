@@ -130,7 +130,7 @@ li span {
 }
 
 .complete-title{
-  animation: compeete 4s infinite;
+  animation: complete 4s infinite;
 }
 
 @keyframes complete{
